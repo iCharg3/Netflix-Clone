@@ -1,1 +1,1 @@
-Netflix clone
+Netflix clone with home,signin,signup and browse pages. Routes are protected to stop unauthorized access.
